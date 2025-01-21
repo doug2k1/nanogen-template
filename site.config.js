@@ -1,9 +1,9 @@
-module.exports = {
+export default {
   build: {
     srcPath: './src',
-    outputPath: './public'
+    outputPath: './public',
   },
   site: {
-    title: 'Nanogen site'
-  }
-};
+    title: 'Nanogen site',
+  },
+}

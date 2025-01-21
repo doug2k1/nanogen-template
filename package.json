@@ -1,16 +1,13 @@
 {
   "name": "nanogen-template",
   "version": "1.0.0",
-  "description": "",
-  "main": "site.config.js",
+  "type": "module",
   "scripts": {
     "start": "nanogen start",
-    "build": "nanogen build"
+    "build": "nanogen build",
+    "version": "nanogen -v"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
-    "nanogen": "^0.4.2"
+    "nanogen": "^0.4.4"
   }
 }
