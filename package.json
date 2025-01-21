@@ -8,6 +8,6 @@
     "version": "nanogen -v"
   },
   "devDependencies": {
-    "nanogen": "^0.4.4"
+    "nanogen": "^0.4.6"
   }
 }
